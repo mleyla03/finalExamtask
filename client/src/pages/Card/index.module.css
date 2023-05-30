@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gender{
+    position: relative;
+    border: 1px solid rgba(0, 0, 0, 0.427);
+}
+.gender h2{
+    position: absolute;
+    top:30px;
+    left: 10px;
+}
+.gender p{
+    position: absolute;
+    top:60px;
+    left: 10px;
+}
+.gender .images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.homesy{
+    width: 300px;
+}
